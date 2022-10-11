@@ -1,0 +1,25 @@
+{
+	"info": {
+		"_postman_id": "71eb8649-d955-4bb7-8822-aae1a5748a61",
+		"name": "Ejercicio2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ListadoFormacion",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "AltaCurso",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
